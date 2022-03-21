@@ -14,7 +14,7 @@ Then  the quiz  is over
 When the quiz is over
 Then you can save your initials and score
 
-![Alt Text](file:///C:/Users/aessa/bootcamp/Quiz-to-go/demo1.JPG)
+![Alt Text](https://abdulqadir51.github.io/Quiz-to-go/demo1.JPG)
 
-![Alt Text](file:///C:/Users/aessa/bootcamp/Quiz-to-go/demo2.JPG)
+![Alt Text](https://abdulqadir51.github.io/Quiz-to-go/demo2.JPG)
 
